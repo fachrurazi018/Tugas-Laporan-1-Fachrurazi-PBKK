@@ -1,9 +1,13 @@
 # Tugas-Laporan-1-Fachrurazi-PBKK
-Tugas Laporan 1 PBKK Fachrurazi (G1A021016), Kelas : B1
+Tugas Laporan 1 PBKK Fachrurazi (G1A021016)
+Nama : Fachrurazi <br>
+NPM : G1A021016 <br>
+Kelas : B1 <br>
 
+Soal Nomor 1 <br>
 Jelaskan tentang konsep OOP pada PHP! <br>
 
-Jawab:
+Jawab: <br>
 	OOP, atau singkatan dari Object-Oriented Programming (Pemrograman Berorientasi Objek), adalah paradigma pemrograman yang mendasarkan pemrograman pada konsep objek. Paradigma ini mengorganisir data dan fungsi ke dalam "objek" yang merepresentasikan entitas dalam dunia nyata. Objek dalam OOP memiliki atribut (data) dan metode (fungsi) yang dapat berinteraksi satu sama lain. Konsep OOP (Object-Oriented Programming) pada PHP sangat penting dan merupakan bagian integral dari bahasa pemrograman PHP. PHP mendukung OOP sejak versi 5, dan dalam versi-versi terbaru, penggunaan OOP semakin ditingkatkan. Pemrograman Berorientasi Objek (OOP) adalah paradigma pemrograman yang mendasarkan pemrograman pada konsep objek, yang merepresentasikan entitas dalam dunia nyata dengan cara yang lebih terstruktur dan terorganisir. PHP, sebagai bahasa pemrograman yang sering digunakan untuk pengembangan web, juga mendukung OOP dan memiliki berbagai fitur dan konsep OOP yang kuat. Berikut beberapa konsep dasar pada OOP atau Object Oriented Programming pada PHP.
 1. Kelas (class)
 	Kelas adalah kerangka dasar untuk menciptakan objek dalam PHP. Anda mendefinisikan kelas dengan menggunakan kata kunci class. Kelas adalah tempat di mana Anda mendefinisikan atribut (variabel) dan metode (fungsi) yang akan dimiliki oleh objek yang dibuat dari kelas tersebut. Dalam PHP, sebuah kelas adalah blueprint atau cetak biru yang digunakan untuk membuat objek. Kelas mendefinisikan atribut (variabel) dan metode (fungsi) yang akan dimiliki oleh objek yang akan dibuat berdasarkan kelas tersebut. Pendefinisikan kelas dengan menggunakan kata kunci class, diikuti oleh nama kelas. Nama kelas biasanya diawali dengan huruf kapital.
