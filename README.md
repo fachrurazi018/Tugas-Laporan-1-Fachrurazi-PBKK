@@ -1,12 +1,6 @@
 # Tugas-Laporan-1-Fachrurazi-PBKK
-Tugas Laporan 1 PBKK Fachrurazi (G1A021016)
-Nama : Fachrurazi
-NPM : G1A021016
-Kelas : B1
-Mata Kuliah : Proyek Pemrograman Berbasis Kerangka Kerja
-Tugas Laporan 1
+Tugas Laporan 1 PBKK Fachrurazi (G1A021016), Kelas : B1
 
-Soal Nomor 1
 Jelaskan tentang konsep OOP pada PHP!
 Jawab:
 	OOP, atau singkatan dari Object-Oriented Programming (Pemrograman Berorientasi Objek), adalah paradigma pemrograman yang mendasarkan pemrograman pada konsep objek. Paradigma ini mengorganisir data dan fungsi ke dalam "objek" yang merepresentasikan entitas dalam dunia nyata. Objek dalam OOP memiliki atribut (data) dan metode (fungsi) yang dapat berinteraksi satu sama lain. Konsep OOP (Object-Oriented Programming) pada PHP sangat penting dan merupakan bagian integral dari bahasa pemrograman PHP. PHP mendukung OOP sejak versi 5, dan dalam versi-versi terbaru, penggunaan OOP semakin ditingkatkan. Pemrograman Berorientasi Objek (OOP) adalah paradigma pemrograman yang mendasarkan pemrograman pada konsep objek, yang merepresentasikan entitas dalam dunia nyata dengan cara yang lebih terstruktur dan terorganisir. PHP, sebagai bahasa pemrograman yang sering digunakan untuk pengembangan web, juga mendukung OOP dan memiliki berbagai fitur dan konsep OOP yang kuat. Berikut beberapa konsep dasar pada OOP atau Object Oriented Programming pada PHP.
